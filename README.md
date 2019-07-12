@@ -1,2 +1,2 @@
-# jsapp
+# node-app
 test node
